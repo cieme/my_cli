@@ -1,0 +1,7 @@
+*.vscode
+*.vim
+.idea
+*.log
+*.error
+*.error
+/node_modules
